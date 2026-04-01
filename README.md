@@ -12,7 +12,7 @@
 * 🧠 Research Assistant working on **Graph RAG & Knowledge Graph Systems**
 * 🤖 Backend AI Intern @ Fealty Technologies
 * 🧩 Interested in **AI Systems, Distributed Backend, and Open Source**
-* 🎯 GSoC Aspirant focused on **real-world impactful contributions**
+* 🎯 Open Source Contributor focused on **real-world impactful contributions**
 
 ---
 
@@ -94,7 +94,7 @@
 
 * 🥇 1st Place — GDG Hackathon
 * 🎓 Dean’s List — Shiv Nadar University
-* 👨‍🏫 Teaching Assistant — Computing & Statistics
+* 👨‍🏫 Teaching Assistant — Probability & Statistics
 * 🔐 Google Cybersecurity Professional Certificate
 
 ---
@@ -102,10 +102,9 @@
 ## 🌍 Open Source & Goals
 
 * 🚀 Contributing to **AI + Scientific Computing ecosystems**
-* 🎯 Preparing for **GSoC (Graph systems, AI infra, research tools)**
 * 🧩 Interested in:
-
-  * GA4GH
+  * Large Language Models
+  * NLP frameworks
   * Scientific Python ecosystem
   * AI infra projects
 
@@ -114,8 +113,8 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [as549@snu.edu.in](mailto:as549@snu.edu.in)
-* 💼 LinkedIn: (add link)
-* 🌐 Portfolio: (optional)
+* 💼 LinkedIn: https://www.linkedin.com/in/akshat-sharma-37b94829b/
+* 🌐 Portfolio: https://myselfakshatsharma.vercel.app
 
 ---
 
