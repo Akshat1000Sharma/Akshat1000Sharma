@@ -1,28 +1,36 @@
+<!-- Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Akshat+Sharma;AI+Systems+Developer;Graph+RAG+%7C+LLMs+%7C+Knowledge+Graphs;Building+Real-Time+Intelligent+Systems" />
+</p>
+
+---
+
 # 👋 Hi, I'm Akshat Sharma
 
-🚀 **Machine Learning & AI Systems Developer**
-🧠 Working on **Graph RAG, Knowledge Graphs, and LLM-powered systems**
-⚡ Building **real-time AI systems integrating structured + unstructured data**
+<p align="center">
+🚀 <b>Machine Learning & AI Systems Developer</b> <br>
+🧠 Graph RAG • Knowledge Graphs • LLM Systems <br>
+⚡ Real-time AI systems integrating structured + unstructured data
+</p>
+
+---
+
+## 🧩 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,fastapi,django,react,angular,docker,kubernetes,linux,mongodb,mysql,git" />
+</p>
 
 ---
 
 ## 🔬 About Me
 
 * 🎓 B.Tech CSE (AI/ML) @ Shiv Nadar University (CGPA: 8.5)
-* 🧠 Research Assistant working on **Graph RAG & Knowledge Graph Systems**
+* 🧠 Research Assistant — **Graph RAG & Knowledge Graph Systems**
 * 🤖 Backend AI Intern @ Fealty Technologies
-* 🧩 Interested in **AI Systems, Distributed Backend, and Open Source**
-* 🎯 Open Source Contributor focused on **real-world impactful contributions**
-
----
-
-## 🧠 Core Expertise
-
-* **AI/ML Systems** → RAG, Graph RAG, LLM pipelines, Knowledge Graphs
-* **Backend Engineering** → FastAPI, Django, REST APIs, scalable systems
-* **Data Systems** → Neo4j, Vector DBs (Qdrant, Weaviate), Graph querying
-* **Full Stack** → Angular, React, Next.js
-* **DevOps** → Docker, Kubernetes, Linux
+* 🧩 Focused on **AI Systems + Scalable Backend + Open Source**
+* 🎯 Working towards **high-impact open-source contributions**
 
 ---
 
@@ -30,106 +38,84 @@
 
 ### 🔹 Knowledge Augmented Graph Learning System (KAG)
 
-* Built a **production-grade Graph RAG system**
-* Integrated **Neo4j + GNN + LLM reasoning**
-* Hybrid retrieval: graph traversal + vector search + PageRank
-* FastAPI backend with LangGraph agent pipelines
+* Production-grade **Graph RAG system**
+* Neo4j + GNN + LLM reasoning
+* Hybrid retrieval (graph + vector + ranking)
+* FastAPI + LangGraph pipeline
 
 ---
 
 ### 🔹 NOAA COOPS Interactive AI Chatbot
 
-* Open-source chatbot for querying **oceanographic datasets**
-* Combines **vector search + structured API queries**
-* Real-time graph generation + natural language QA
+* Query oceanographic datasets using **natural language**
+* Combines vector search + structured APIs
+* Real-time graph + QA system
 
 ---
 
 ### 🔹 Dynamic Database AI Chatbot
 
-* Query **any database using natural language**
-* Integrated **Qdrant vector DB**
-* Secure architecture for structured data access
+* Natural language → database queries
+* Qdrant vector DB integration
+* Secure structured data access
 
 ---
 
 ### 🔹 CryptoBank (Web3 Banking System)
 
-* Built using **Solidity + FastAPI + Next.js**
-* Smart contracts for banking operations
-* Interactive Web3 UI with wallet integration
+* Solidity + FastAPI + Next.js
+* Smart contract-based banking
+* Interactive Web3 UI
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-`Python` `C++` `Java` `SQL` `JavaScript` `Bash` `Solidity`
-
-**AI / ML**
-`PyTorch` `TensorFlow` `RAG` `Graph RAG` `LLMs`
-
-**Backend & Frameworks**
-`FastAPI` `Django` `LangChain` `LangGraph`
-
-**Databases**
-`Neo4j` `MongoDB` `MySQL` `Qdrant` `Weaviate`
-
-**DevOps & Tools**
-`Docker` `Kubernetes` `Linux` `Git`
-
----
 ## 📊 GitHub Insights
 
-🚀 *A snapshot of my development consistency, contribution patterns, and open-source activity.*
+🚀 *Consistency, growth, and system-building patterns*
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat1000Sharma&theme=tokyo-night&hide_border=true" />
 
-💡 **What this shows:**
-- Consistent contribution patterns over time  
-- Focus on building and experimenting with real-world systems  
-- Increasing activity aligned with AI/ML and backend projects  
-
----
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshat1000Sharma&theme=tokyonight" />
 
-📌 **Activity Breakdown:**
-- Majority of work focused on **core development (commits)**  
-- Active involvement in **feature building and system design**  
-- Gradually increasing participation in **collaboration & contributions**  
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Akshat1000Sharma/Akshat1000Sharma/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-🧠 *Currently working towards more open-source contributions, PR reviews, and collaborative development to strengthen real-world impact.*
-
----
 ## 🏆 Achievements
 
-* 🥇 1st Place — GDG Hackathon
-* 🎓 Dean’s List — Shiv Nadar University
+* 🥇 GDG Hackathon Winner
+* 🎓 Dean’s List
 * 👨‍🏫 Teaching Assistant — Probability & Statistics
-* 🔐 Google Cybersecurity Professional Certificate
+* 🔐 Google Cybersecurity Certificate
 
 ---
 
 ## 🌍 Open Source & Goals
 
 * 🚀 Contributing to **AI + Scientific Computing ecosystems**
-* 🧩 Interested in:
-  * Large Language Models
-  * NLP frameworks
+* 🧠 Exploring:
+
+  * Graph-based AI systems
+  * LLM infrastructure
   * Scientific Python ecosystem
-  * AI infra projects
+* 🎯 Target: **Impactful open-source contributions**
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [as549@snu.edu.in](mailto:as549@snu.edu.in)
-* 💼 LinkedIn: https://www.linkedin.com/in/akshat-sharma-37b94829b/
-* 🌐 Portfolio: https://myselfakshatsharma.vercel.app
+<p align="center">
+<a href="mailto:as549@snu.edu.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/akshat-sharma-37b94829b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://myselfakshatsharma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
+</p>
 
 ---
 
-⭐ *Always open to collaboration in AI systems, backend engineering, and open source.*
+⭐ *Building scalable AI systems • Open to collaboration • Always learning*
