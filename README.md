@@ -80,18 +80,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akshat1000Sharma&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akshat1000Sharma&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=Akshat1000Sharma&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Akshat1000Sharma\&theme=tokyonight)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat1000Sharma&theme=tokyo-night&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1000Sharma\&layout=compact\&theme=tokyonight)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshat1000Sharma&theme=tokyonight" />
 ---
 
 ## 🏆 Achievements
