@@ -79,18 +79,31 @@
 `Docker` `Kubernetes` `Linux` `Git`
 
 ---
-
 ## 📊 GitHub Insights
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshat1000Sharma&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=Akshat1000Sharma&theme=tokyonight&hide_border=true" />
+🚀 *A snapshot of my development consistency, contribution patterns, and open-source activity.*
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat1000Sharma&theme=tokyo-night&hide_border=true" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshat1000Sharma&theme=tokyonight" />
+💡 **What this shows:**
+- Consistent contribution patterns over time  
+- Focus on building and experimenting with real-world systems  
+- Increasing activity aligned with AI/ML and backend projects  
+
 ---
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshat1000Sharma&theme=tokyonight" />
+
+📌 **Activity Breakdown:**
+- Majority of work focused on **core development (commits)**  
+- Active involvement in **feature building and system design**  
+- Gradually increasing participation in **collaboration & contributions**  
+
+---
+
+🧠 *Currently working towards more open-source contributions, PR reviews, and collaborative development to strengthen real-world impact.*
+
+---
 ## 🏆 Achievements
 
 * 🥇 1st Place — GDG Hackathon
