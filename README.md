@@ -128,7 +128,7 @@
 <p align="center">
 <a href="mailto:as549@snu.edu.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/akshat-sharma-37b94829b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://myselfakshatsharma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
+<a href="https://akshat-portfolio-2026.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
 </p>
 
 ---
